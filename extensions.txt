@@ -1,2 +1,0 @@
-jupyterlab-cell-flash
-jlab-enhanced-cell-toolbar

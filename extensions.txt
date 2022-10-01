@@ -1,3 +1,2 @@
-cell-toolbar-extension
 jupyterlab-cell-flash
-@jlab-enhanced/cell-toolbar
+jlab-enhanced-cell-toolbar
